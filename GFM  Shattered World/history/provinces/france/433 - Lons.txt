@@ -1,6 +1,0 @@
-owner = MUL
-controller = MUL
-add_core = FRA
-add_core = MUL
-trade_goods = coal
-life_rating = 30
